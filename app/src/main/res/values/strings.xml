@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Red_Bubble</string>
+    <string name="hello_text">Hello</string>
+    <string name="again_text">AGAIN!</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in_btn">SIGN IN</string>
+    <string name="fb_btn">Login in with facebook</string>
+    <string name="google_btn">Login in with google</string>
+    <string name="sign_up_btn">sign up</string>
+    <string name="forgot_pw">Forgot password?</string>
+    <string name="create_acc">Create Account</string>
+    <string name="title_activity_bottom_navigation">bottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="grocerybtn">Grocery List</string>
+    <string name="donebtn">DONE</string>
+    <string name="groceryHeader">Grocery List</string>
+    <string name="galleryHeader">Gallery</string>
+    <string name="addimgtext">Add The Photo</string>
+    <string name="calendarHeader">My Calendar</string>
+    <string name="eventHeader">Add an event</string>
+    <string name="editTextTime">Time</string>
+    <string name="amBtn">Am</string>
+    <string name="pmBtn">Pm</string>
+    <string name="dateSet">Date</string>
+    <string name="note">note</string>
+    <string name="reminderbtn">Add Reminder</string>
+    <string name="cancelbtn">Cancel</string>
+    <string name="savebtn">Save</string>
+    <string name="bdayHeader">Birth Day Reminder</string>
+    <string name="bdayText">Today Rock\'s 21st  Birthday</string>
+    <string name="childHeader">Child Mode</string>
+    <string name="closeChildPw">Enter Pin</string>
+    <string name="verifyTxt">Verify That\'s it\'s ypu</string>
+    <string name="bdaybtn">Birth Dates</string>
+    <string name="BName">Name</string>
+    <string name="bdaySave">Save</string>
+
+</resources>

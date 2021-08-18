@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/drawable-anydpi/ic_action_home.xml" value="0.2203125" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2203125" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/drawable/rounded_corner_textbox.xml" value="0.2203125" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/font/armata.xml" value="0.1265625" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout-land/activity_main.xml" value="0.144" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/activity_add_event.xml" value="0.264" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/activity_birthday_reminder.xml" value="0.264" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.4" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/activity_child_mode.xml" value="0.264" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/activity_clendar.xml" value="0.264" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/activity_close_child_mode.xml" value="0.264" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/activity_family_home.xml" value="0.264" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/activity_gallery.xml" value="0.264" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/activity_grocery_list.xml" value="0.264" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/activity_set_bday.xml" value="0.264" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/fragment_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/layout/fragment_notifications.xml" value="0.20416666666666666" />
+        <entry key="..\:/IT videos/Red_Bubble/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mad_Final</string>
+    <string name="gpa_cal_btn">GPA Calculation</string>
+    <string name="titel_main_id">Official Details</string>
+    <string name="special_Notes_btn">Special Notes</string>
+    <string name="location_btn_id">GPA Calculation</string>
+    <string name="special_notes_id">Special Notes</string>
+    <string name="note1_id">Note 1</string>
+    <string name="note2_id">Note 2</string>
+    <string name="note4_id">Note 4</string>
+    <string name="note31_id">Note 3</string>
+    <string name="note_des_id">Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with \'real\' content. This is required when, for example, the final text is not yet available. Dummy text is also known as \'fill text\'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a \'ready-made\' text to sing with the melody. Dummy texts have been in use by typesetters since the 16th century.</string>
+    <string name="save_btn">Save</string>
+    <string name="gpa_cal_titel_id">GPA Calculation</string>
+    <string name="emergency_pl_id">Emergency places</string>
+    <string name="search_inner_text_id">Enter a Place(Eg:Hospital)</string>
+    <string name="search_inner_id">Enter a Place(Eg:Hospital)</string>
+    <string name="course_name_id">Course Name</string>
+    <string name="grade_id">Grade</string>
+    <string name="creadit_id">Credit</string>
+    <string name="course_type_id">Course Type</string>
+    <string name="add_course_id">Add  Course</string>
+    <string name="cal_btn_id">Calculate</string>
+    <string name="gpa_view_id">GPA</string>
+</resources>
